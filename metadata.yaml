@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38527#La-vie-des-abeilles
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2012-01-08'
 gutenberg_type: Text

@@ -1,0 +1,28 @@
+_repo: La-vie-des-abeilles_38527
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2012-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38527'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bees'
+- !lcc 'QL'
+title: La vie des abeilles
+url: http://www.gutenberg.org/ebooks/38527
